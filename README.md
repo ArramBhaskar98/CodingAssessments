@@ -1,2 +1,2 @@
 # CodingAssessments
-All Companies Coding Assessments
+* In this Repository you will find all Coding Assessment solutions asked in various companies.
